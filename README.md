@@ -20,7 +20,7 @@ Libraries that I used:
   - matplotlib
   - seaborn
  - ML methods
-  - sklearn
+   - sklearn
 - NLP
   - nltk
  
